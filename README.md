@@ -20,5 +20,12 @@
 
 *[Uso personal](#personas-contribuyentes)
 
+## Descripción del proyecto
+<p align="justify">
+Proyecto de prueba para adquirir conocimientos y destrezas en el uso del sistema de contro de versiones Git y GitHub. Es un proyecto libre y en desarrollo. Versión `1.0.0`.
+
+![Descripción imágen GitHub](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AFont_Awesome_5_brands_github-square.svg&psig=AOvVaw2HKy1Fwb8d-lqCY5Tf2P0H&ust=1654002818182000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjTjeGlh_gCFQAAAAAdAAAAABAD)
+</p>
+
 
 
