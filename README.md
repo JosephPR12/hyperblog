@@ -4,9 +4,7 @@
 
 <h1 align="center"> HYPERLOG </h1>
 
-Un blog increible para el curso de git y github
-*[0](#insignias)
-
+<em>Tópicos</em>
 *[Blog](#índice)
 
 *[Proyecto de prueba curso GitHub](#descripción-del-proyecto)
