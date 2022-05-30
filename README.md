@@ -41,3 +41,9 @@ Proyecto de prueba para adquirir conocimientos y destrezas en el uso del sistema
 
 <a href="https://developer.android.com/studio" target="_blank"> <img src="https://developer.android.com/images/logos/android.svg" alt="androidStudio" width="40" height="40"/> </a> <a href="https://firebase.google.com/?hl=pt" target="_blank"> <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_96dp.png" alt="firebase" width="40" height="40"/> </a>
 
+###
+
+## Desarrollaodor(es)
+
+| [<img src="https://avatars.githubusercontent.com/u/37315196?v=4" width=115><br><sub>Guilherme Rossin</sub>](https://github.com/GuilhermeRossin) | [<img src="https://avatars.githubusercontent.com/u/21059035?v=4" width=115><br><sub>Erica Muniz</sub>](https://github.com/Erica08muniz) |
+
