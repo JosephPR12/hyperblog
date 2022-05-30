@@ -27,5 +27,17 @@ Proyecto de prueba para adquirir conocimientos y destrezas en el uso del sistema
 ![image](https://user-images.githubusercontent.com/70068686/171000283-1ad5e59f-b1f4-4f50-a5aa-540f0f44bfbd.png)
 </p>
 
+## Funcionalidades
 
+:heavy_check_mark: `Funcionalidad 1:` Entender el uso de Git y GitHub.
+
+:heavy_check_mark: `Funcionalidad 2:` Usar Git en un proyecto de desarrollo web.
+
+:heavy_check_mark: `Funcionalidad 3:` Cargar proyecto a repositorio en la nube de GitHub.
+
+## Herramientas utilizadas
+
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+
+<a href="https://developer.android.com/studio" target="_blank"> <img src="https://developer.android.com/images/logos/android.svg" alt="androidStudio" width="40" height="40"/> </a> <a href="https://firebase.google.com/?hl=pt" target="_blank"> <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_96dp.png" alt="firebase" width="40" height="40"/> </a>
 
