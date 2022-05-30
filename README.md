@@ -5,6 +5,7 @@
 <h1 align="center"> HYPERLOG </h1>
 
 <em>Tópicos</em>
+
 *[Blog](#índice)
 
 *[Proyecto de prueba curso GitHub](#descripción-del-proyecto)
