@@ -23,6 +23,8 @@
 ## Descripción del proyecto
 <p align="justify">
 Proyecto de prueba para adquirir conocimientos y destrezas en el uso del sistema de contro de versiones Git y GitHub. Es un proyecto libre y en desarrollo. Versión `4.0.1`.
+ 
+:construction: Proyecto en construcción :construction:
 
 ![image](https://user-images.githubusercontent.com/70068686/171000283-1ad5e59f-b1f4-4f50-a5aa-540f0f44bfbd.png)
 </p>
